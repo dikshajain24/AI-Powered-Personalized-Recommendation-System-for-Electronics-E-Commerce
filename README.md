@@ -27,4 +27,8 @@ This project presents a hybrid recommendation engine that delivers personalized 
 - Recall
 - Root Mean Square Error (RMSE)
 
-## 📁 Project Structure
+## 📁 Project Dataset Link: 
+https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
+
+## Project Contains : Cleaned Dataset , code for the application and the research paper. 
+
