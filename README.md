@@ -30,5 +30,5 @@ This project presents a hybrid recommendation engine that delivers personalized 
 ## 📁 Project Dataset Link: 
 https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
 
-## Project Contains : Cleaned Dataset , code for the application and the research paper. 
+## Project Contains : Cleaned Dataset, Code for the Application and the Research Paper. 
 
